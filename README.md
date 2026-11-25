@@ -1,4 +1,4 @@
-# Hi, I'm Shivangi
+# Hi, I'm Shivangi Priya
 
 
 Product and platform testing specialist. I work on AI output evaluation, content and platform QA, and building small internal tools that make quality work faster.
@@ -12,3 +12,4 @@ Product and platform testing specialist. I work on AI output evaluation, content
 
 Find me on LinkedIn: linkedin.com/in/shivangii-priyaa
 
+Writing: Possible Lives, https://possiblelives.substack.com
